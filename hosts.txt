@@ -1,0 +1,585 @@
+# Other
+2407.pl
+# 4pda.to/forum/index.php?showforum=1192
+4pda.to
+6pm.com
+8chan.moe
+# platform.activestate.com
+activestate.com
+acurapartswarehouse.com
+adafruit.com
+adam-audio.com
+agar.io
+airbrake.io
+alberta.ca
+alienwarearena.com
+alltrails.com
+alphacoders.com
+altaro.com
+amazfitwatchfaces.com
+# gaming.amazon.com
+amazon.com
+# login.amd.com
+amd.com
+analog.com
+angryemailtranslator.com
+annimon.com
+# console.anthropic.com
+anthropic.com
+anythingllm.com
+apiary.io
+aplawrence.com
+# App installation from marketplace.atlassian.com
+atlassian.com
+# w.atwiki.jp
+atwiki.jp
+# app.augmentcode.com
+augmentcode.com
+# accounts.autodesk.com
+# dl.appstreaming.autodesk.com
+# efulfillment.autodesk.com
+autodesk.com
+av-connection.com
+# bits.avcdn.net
+avcdn.net
+# repo.bacch.com
+bacch.com
+bard.google.com
+beacon3d.com
+bestbuy.com
+# bing.com/chat
+bing.com
+blackfriday.com
+blizzardwatch.com
+bluesky-soft.com
+blur.io
+boombeach.com
+boosteroid.com
+bosch-home.com
+bosch.de
+bradyid.com
+# ai-chat.bsg.brave.com
+brave.com
+brawlstars.com
+bricklink.com
+# login.broadcom.com
+# packages-prod.broadcom.com/tools/
+broadcom.com
+broccolionline.jp
+buf.build
+buymeacoffee.com
+cambiumnetworks.com
+canva-apps.com
+canva.com
+capacitorjs.com
+capcut.com
+cdromance.org
+census.gov
+certifytheweb.com
+cesium.com
+# forums.chaos.com
+# try.chaos.com
+chaos.com
+# dashboard.chatfuel.com
+chatfuel.com
+chatgpt.com
+# community.cisco.com
+# crosswork.cisco.com
+# id.cisco.com
+# secure-web.cisco.com
+# tools.cisco.com
+cisco.com
+cisecurity.org
+citrix.com
+# database.clamav.net
+clamav.net
+# cxstudio.clarabridge.net
+clarabridge.net
+clash.com
+clashmini.com
+clashofclans.com
+clashroyale.com
+claude.ai
+clevelandclinic.org
+clickup.com
+cmems-du.eu
+cocalc.com
+codebrowser.dev
+# coral.cohere.com
+# dashboard.cohere.com
+cohere.com
+copernicus.eu
+# www3.corsair.com
+corsair.com
+cpu-monkey.com
+crowdstrike.com
+crunchbase.com
+crunchyroll.com
+cybersecurity-help.cz
+darkproject.eu
+databricks.com
+dating.com
+daz3d.com
+# app.deepsource.com
+deepsource.com
+deepsource.io
+deezer.com
+# dl.dell.com
+dell.com
+# afcs.dellcdn.com
+dellcdn.com
+designify.com
+devart.com
+devexpress.com
+devops.com
+dice.com
+dickssportinggoods.com
+diffblue.com
+digikey.com
+disctech.com
+dnb.com
+docker.io
+dyson.com
+dyson.nl
+dyson.se
+e-hentai.org
+easyjet.com
+# artifacts.elastic.co
+elastic.co
+element14.com
+elevenlabs.io
+elgiganten.se
+engagor.com
+entrust.com
+etsy.com
+extremetech.com
+# familysearch.org/identity/signup/
+familysearch.org
+fanatical.com
+fast.com
+fastflux.ai
+# sites.fastspring.com
+fastspring.com
+findagrave.com
+flexpool.io
+flourish.studio
+fls.guru
+fluke.com
+formula1.com
+fortiguard.com
+# docs.fortinet.com
+fortinet.com
+fotoforensics.com
+foxnews.com
+foxtrot.com.ua
+framer.com
+freeimages.com
+freemyip.com
+# support.ts.fujitsu.com
+fujitsu.com
+futurelearn.com
+g2a.com
+g711.org
+gambody.com
+game.co.uk
+gamesfirsthelsinki.com
+gamestop.com
+gemini.google.com
+genspark.ai
+geospy.ai
+getsafeonline.org
+ghidra-sre.org
+# Github Copilot
+github.com
+githubcopilot.com
+githubusercontent.com
+# packages.gitlab.com/gitlab/gitlab-ee/
+gitlab.com
+# gllto.glpals.com
+glpals.com
+# discuss.ai.google.dev
+google.dev
+# apt.grafana.com
+# dl.grafana.com
+# rpm.grafana.com
+grafana.com
+grammarly.com
+# auth.grazie.ai
+grazie.ai
+#
+grok.com
+# chat.groq.com
+# console.groq.com
+groq.com
+# Groupon
+groupon.com
+# img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
+grouponcdn.com
+guilded.gg
+habr.com
+# releases.hashicorp.com
+hashicorp.com
+hashkey.com
+hayday.com
+haydaygame.com
+healthline.com
+# hex-rays.com/vulnfix/
+hex-rays.com
+# api.home-connect.cn
+home-connect.cn
+home-connect.com
+# auth.hpe.com
+hpe.com
+humblebundle.com
+hume.ai
+hybrid-analysis.com
+hyundainews.com
+iaai.com
+ibm.com
+icd10data.com
+# ghostrc.game.idtech.services
+idtech.services
+iherb.com
+ikea.com
+# www.imagecache365.com
+imagecache365.com
+# api.imgur.com, see https://github.com/ShareX/ShareX/issues/7910
+imgur.com
+indeed.com
+# community.infineon.com
+infineon.com
+informit.com
+insanelymac.com
+intel.com
+intel.se
+# api.app.prod.grazie.aws.intellij.net
+intellij.net
+intellipaat.com
+iperf3serverlist.net
+jabra.com
+# download.jetbrains.com
+jetbrains.com
+joesandbox.com
+jsfiddle.net
+keepgrowing.in
+keepsolid.com
+kemono.su
+klaviyo.com
+kmail-lists.com
+kowalski7cc.xyz
+kroger.com
+# app.langdock.com
+langdock.com
+ldoceonline.com
+# myworld.leica-geosystems.com
+leica-geosystems.com
+lenso.ai
+letyshops.com
+# forum.lightburnsoftware.com
+lightburnsoftware.com
+lightning.ai
+linuxiac.com
+lipstickalley.com
+liquidsky.com
+live.com
+# llama3-1.llamameta.net
+llamameta.net
+logo.com
+lookerstudio.google.com
+lowes.com
+m3u.in
+macpaw.com
+macvendors.com
+# downloads.malwarebytes.com
+# data-cdn.mbamupdates.com
+malwarebytes.com
+malwarebytes.org
+# matrix-client.matrix.org/_matrix/client/v3/register
+matrix.org
+mattermost.com
+maximintegrated.com
+mbamupdates.com
+mbed.com
+meest-shop.com
+megogo.net
+# documentation.meraki.com
+meraki.com
+# me.meshcapade.com
+meshcapade.com
+# aidemos.meta.com
+meta.com
+# sam2.metademolab.com
+metademolab.com
+metopera.org
+michaelkors.global
+microchip.com
+# copilot.microsoft.com
+# software-static.download.prss.microsoft.com
+microsoft.com
+militarnyi.com
+mo.co
+moneypuck.com
+# account.mongodb.com
+# cloud.mongodb.com
+mongodb.com
+mongodb.net
+monotype.com
+monotypefonts.com
+monster.ie
+mouser.com
+myfonts.com
+myprepaidcenter.com
+myrotvorets.center
+nba.com
+netflix.com
+ngrok.com
+nordvpn.com
+# login.norton.com
+norton.com
+# notion.so/signup
+notion.so
+# developer.nvidia.com
+# install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
+nvidia.com
+nxp.com
+oaistatic.com
+# files.oaiusercontent.com
+oaiusercontent.com
+oasis.app
+oclc.org
+octopart-clicks.com
+octopart.com
+octostatic.com
+oculus.com
+omnissa.com
+omv-extras.org
+# ripcordchat.onfastspring.com/ripcord
+onfastspring.com
+onshape.com
+# api.openai.com
+# auth0.openai.com
+# chat.openai.com
+openai.com
+# cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
+oracle.com
+oraclecloud.com
+ottg.app
+outflank.nl
+padi.com
+pandasecurity.com
+# app.paraswap.io
+paraswap.io
+# builds.parsec.app
+parsec.app
+parts-express.com
+pcbway.com
+pcgamesn.com
+pcmag.com
+perforce.com
+peter-tanner.com
+pexels.com
+philscomputerlab.com
+phishtank.com
+photonengine.com
+pimeyes.com
+# gateway.pinata.cloud
+pinata.cloud
+pixabay.com
+plugin-alliance.com
+pluralsight.com
+pny.com
+promods.net
+# support.ptc.com
+ptc.com
+pump.fun
+qaweb.dev
+qcad.org
+qobuz.com
+# download.qt.io
+# master.qt.io
+qt.io
+qualcomm.com
+quicknode.com
+radarr.video
+ratatype.com
+# releases.raycast.com
+raycast.com
+# gold.razer.com
+razer.com
+readdle.com
+readybot.io
+recraft.ai
+redis.com
+redis.io
+refinitiv.com
+reka.ai
+remove.bg
+resp.app
+reverb.com
+# support.ruckuswireless.com
+ruckuswireless.com
+salesforce.com
+samsclub.com
+# blogs.sap.com
+sap.com
+# aftermarket.schaeffler.com
+# vehiclelifetimesolutions.schaeffler.com
+schaeffler.com
+schenker-tech.de
+# download.screamingfrog.co.uk
+screamingfrog.co.uk
+securitytrails.com
+seekvectorlogo.net
+seeurlpcl.com
+semrush.com
+sendy.jp
+sentry.io
+serato.com
+serialcart.com
+# store.serif.com/get/universal-licence-2/trial/
+serif.com
+# radarr.servarr.com
+servarr.com
+serverkast.com
+setapp.com
+shiksha.com
+showtime.com
+# xcelerator.siemens.com
+siemens.com
+singlekey-id.com
+# 3dwarehouse.sketchup.com
+# extensions.sketchup.com
+sketchup.com
+skyshowtime.com
+slideshare.net
+smartbear.com
+snort.org
+soapui.org
+solarwinds.com
+# community.sophos.com
+# intelix.sophos.com
+sophos.com
+sora.com
+spiceworks.com
+splunk.com
+splunkcloud.com
+spotify.com
+squadbusters.com
+st.com
+stalker2.com
+steamidfinder.com
+steganos.com
+stereophile.com
+stockx.com
+strava.com
+studychat.app
+stuff.co.nz
+# members.summerana.com
+summerana.com
+# https://supercell.com/en/our-domains/
+supercell.com
+supercellcreators.com
+supercellgames.com
+supercellid.com
+supercellstore.com
+swagger.io
+syncfusion.com
+sysdig.com
+systemtek.co.uk
+tableau.com
+# pkgs.tailscale.com
+tailscale.com
+target.com
+te.com
+# community.teamviewer.com
+# download.teamviewer.com
+teamviewer.com
+# account.templatemonster.com
+templatemonster.com
+tenable.com
+# app.terraform.io
+terraform.io
+teslasoft.org
+theaudiodb.com
+# api.themoviedb.org
+themoviedb.org
+thesassway.com
+thinkpads.com
+thomas-krenn.com
+ti.com
+tidal.com
+#
+tiktok.com
+tiktokv.com
+timberland.com
+# images.tmdb.org
+tmdb.org
+tommy.com
+tria.ge
+trionworlds.com
+truthsocial.com
+ttwstatic.com
+# fw-download.ubnt.com
+ubnt.com
+ultimaker.com
+# downloads.ultraedit.com
+ultraedit.com
+unscreen.com
+vagrantcloud.com
+# csdlcdn.vaio.com
+vaio.com
+vans.com
+vans.de
+vans.fr
+vans.it
+vans.nl
+vans.se
+vectorworks.net
+veeam.com
+veritas.com
+# viperatech.com/tickets
+viperatech.com
+# docs.vmware.com
+# softwareupdate.vmware.com
+vmware.com
+vpnunlimited.com
+vyos.io
+wakanim.tv
+walletconnect.com
+# walmart.com/orders
+walmart.com
+watchguard.com
+we.tl
+weather.com
+# cart.webex.com
+webex.com
+# cloud.webscraper.io
+webscraper.io
+wellfound.com
+wetransfer.com
+wikidot.com
+windguru.cz
+wk.cz
+wonderclub.com
+wunderground.com
+# accounts.x.ai
+# console.x.ai
+x.ai
+# xboxdesignlab.xbox.com
+xbox.com
+xboxlive.com
+# accountmanagement.services.xerox.com/sites/customerportal?hc_login
+# www.support.xerox.com
+xerox.com
+xfantazy.com
+xmg.gg
+yeggi.com
+yithemes.com
+yourdictionary.com
+# app.zerossl.com
+zerossl.com
+# gallery.zetalliance.org
+zetalliance.org
+# aftermarket.zf.com
+zf.com
+zoosk.com
