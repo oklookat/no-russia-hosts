@@ -68,6 +68,7 @@ broadcom.com
 broccolionline.jp
 buf.build
 buymeacoffee.com
+byspotify.com
 cambiumnetworks.com
 canva-apps.com
 canva.com
@@ -389,6 +390,7 @@ plugin-alliance.com
 pluralsight.com
 pny.com
 promods.net
+pscdn.co
 # support.ptc.com
 ptc.com
 pump.fun
@@ -422,6 +424,7 @@ salesforce.com
 samsclub.com
 # blogs.sap.com
 sap.com
+scdn.co
 # aftermarket.schaeffler.com
 # vehiclelifetimesolutions.schaeffler.com
 schaeffler.com
@@ -463,8 +466,17 @@ sora.com
 spiceworks.com
 splunk.com
 splunkcloud.com
+spoti.fi
+spotify-everywhere.com
 spotify.com
-squadbusters.com
+spotify.design
+spotify.linkers.com
+spotifycdn.com
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyforbrands.com
+spotifyjobs.com
 st.com
 stalker2.com
 steamidfinder.com
