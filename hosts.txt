@@ -110,6 +110,7 @@ codebrowser.dev
 # dashboard.cohere.com
 cohere.com
 copernicus.eu
+copilot.microsoft.com
 # www3.corsair.com
 corsair.com
 cpu-monkey.com
@@ -314,9 +315,6 @@ metademolab.com
 metopera.org
 michaelkors.global
 microchip.com
-# copilot.microsoft.com
-# software-static.download.prss.microsoft.com
-microsoft.com
 militarnyi.com
 mo.co
 moneypuck.com
@@ -458,6 +456,7 @@ slideshare.net
 smartbear.com
 snort.org
 soapui.org
+software-static.download.prss.microsoft.com
 solarwinds.com
 # community.sophos.com
 # intelix.sophos.com
@@ -577,14 +576,13 @@ wunderground.com
 # accounts.x.ai
 # console.x.ai
 x.ai
-# xboxdesignlab.xbox.com
-xbox.com
-xboxlive.com
 # accountmanagement.services.xerox.com/sites/customerportal?hc_login
 # www.support.xerox.com
 xerox.com
 xfantazy.com
 xmg.gg
+#
+xsts.auth.xboxlive.com
 yeggi.com
 yithemes.com
 yourdictionary.com
