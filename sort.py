@@ -46,4 +46,4 @@ def process_domains_with_inline_comments(input_file, output_file):
                 f.write(line + '\n')
 
 # Пример использования
-process_domains_with_inline_comments('hosts.txt', 'hosts_ok.txt')
+process_domains_with_inline_comments('hosts.txt', 'hosts.txt')
