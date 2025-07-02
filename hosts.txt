@@ -98,8 +98,7 @@ clamav.net
 clarabridge.net
 clash.com
 clashmini.com
-clashofclans.com
-clashroyale.com
+clashroyaleapp.com
 claude.ai
 clevelandclinic.org
 clickup.com
@@ -185,6 +184,7 @@ g2a.com
 g711.org
 gambody.com
 game.co.uk
+gamepass.com
 gamesfirsthelsinki.com
 gamestop.com
 gemini.google.com
@@ -316,6 +316,7 @@ metademolab.com
 metopera.org
 michaelkors.global
 microchip.com
+microsoft.com
 militarnyi.com
 mo.co
 moneypuck.com
@@ -488,12 +489,6 @@ studychat.app
 stuff.co.nz
 # members.summerana.com
 summerana.com
-# https://supercell.com/en/our-domains/
-supercell.com
-supercellcreators.com
-supercellgames.com
-supercellid.com
-supercellstore.com
 swagger.io
 syncfusion.com
 sysdig.com
@@ -577,13 +572,14 @@ wunderground.com
 # accounts.x.ai
 # console.x.ai
 x.ai
+#
+xboxlive.com
+xboxservices.com
 # accountmanagement.services.xerox.com/sites/customerportal?hc_login
 # www.support.xerox.com
 xerox.com
 xfantazy.com
 xmg.gg
-#
-xsts.auth.xboxlive.com
 yeggi.com
 yithemes.com
 yourdictionary.com
