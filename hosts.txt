@@ -527,6 +527,7 @@ timberland.com
 # images.tmdb.org
 tmdb.org
 tommy.com
+kemono.cr
 tria.ge
 trionworlds.com
 truthsocial.com
