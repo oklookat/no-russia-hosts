@@ -58,3 +58,6 @@ jobs:
           else
             git commit -m "Update hosts.txt and sing-box ruleset"
             git push
+          fi
+
+
