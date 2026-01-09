@@ -51,7 +51,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add sing-box/hosts.txt sing-box/ruleset.srs
+          git add hosts.txt sing-box/ruleset.srs
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
