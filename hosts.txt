@@ -126,6 +126,7 @@ elgiganten.se
 engagor.com
 entrust.com
 etsy.com
+example.com
 extremetech.com
 familysearch.org
 fanatical.com
@@ -485,4 +486,3 @@ zerossl.com
 zetalliance.org
 zf.com
 zoosk.com
-example.com
