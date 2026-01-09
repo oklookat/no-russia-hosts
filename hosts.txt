@@ -485,4 +485,3 @@ zerossl.com
 zetalliance.org
 zf.com
 zoosk.com
-example.com

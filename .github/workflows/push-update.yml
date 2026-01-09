@@ -46,18 +46,16 @@ jobs:
           rm -f "$TMP_RULES_JSON"
 
       # Commit hosts.txt and ruleset.srs if changed
-      - name: Commit updated files
+      - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add hosts.txt sing-box/ruleset.srs
+          git add -u hosts.txt sing-box/ruleset.srs
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update hosts.txt and sing-box ruleset"
-            git push
-          fi
+          git diff --cached --quiet && echo "Nothing changed - skipping commit" && exit 0
+
+          git commit -m "chore: update hosts.txt and sing-box ruleset"
+          git push
 
 
