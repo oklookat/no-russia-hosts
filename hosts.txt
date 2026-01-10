@@ -158,6 +158,7 @@ gamestop.com
 gemini.google.com
 genspark.ai
 geospy.ai
+example.com
 getsafeonline.org
 ghidra-sre.org
 github.com
