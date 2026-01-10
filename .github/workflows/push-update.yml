@@ -33,10 +33,11 @@ jobs:
 
       # Generate temporary rules.json and compile ruleset.srs
       - name: Generate sing-box ruleset
+        working-directory: sing-box
         run: |
           TMP_RULES_JSON=$(mktemp)
-          python sing-box/to_ruleset.py hosts.txt "$TMP_RULES_JSON"
-          python sing-box/ruleset_compile.py "$TMP_RULES_JSON" sing-box/ruleset.srs
+          python to_ruleset.py ../hosts.txt "$TMP_RULES_JSON"
+          python ruleset_compile.py "$TMP_RULES_JSON" ruleset.srs
           rm -f "$TMP_RULES_JSON"
 
       # Commit hosts.txt and ruleset.srs if changed
