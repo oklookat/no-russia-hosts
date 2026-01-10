@@ -35,10 +35,9 @@ jobs:
       - name: Generate sing-box ruleset
         working-directory: sing-box
         run: |
-          TMP_RULES_JSON=$(mktemp)
-          python to_ruleset.py ../hosts.txt "$TMP_RULES_JSON"
-          python ruleset_compile.py "$TMP_RULES_JSON" ruleset.srs
-          rm -f "$TMP_RULES_JSON"
+          python to_ruleset.py ../hosts.txt rules.json
+          python ruleset_compile.py rules.json ruleset.srs
+          rm -f rules.json
 
       # Commit hosts.txt and ruleset.srs if changed
       - name: Commit & push if changed
