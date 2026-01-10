@@ -27,22 +27,16 @@ jobs:
           python-version: "3.11"
 
       # Run sort.py to update hosts.txt
-      - name: Update hosts.txt
+      - name: Sort hosts.txt
         run: |
           python sort.py
 
       # Generate temporary rules.json and compile ruleset.srs
-      - name: Generate sing-box rulesset
-        working-directory: sing-box
+      - name: Generate sing-box ruleset
         run: |
-          # Create temporary rules.json
           TMP_RULES_JSON=$(mktemp)
-          python to_ruleset.py ../hosts.txt "$TMP_RULES_JSON"
-
-          # Compile ruleset.srs
-          python ruleset_compile.py "$TMP_RULES_JSON" ruleset.srs
-
-          # Remove temporary rules.json
+          python sing-box/to_ruleset.py hosts.txt "$TMP_RULES_JSON"
+          python sing-box/ruleset_compile.py "$TMP_RULES_JSON" sing-box/ruleset.srs
           rm -f "$TMP_RULES_JSON"
 
       # Commit hosts.txt and ruleset.srs if changed
@@ -51,11 +45,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -u hosts.txt sing-box/ruleset.srs
-
+          git add hosts.txt sing-box/ruleset.srs
           git diff --cached --quiet && echo "Nothing changed - skipping commit" && exit 0
 
           git commit -m "chore: update hosts.txt and sing-box ruleset"
           git push
-
 
