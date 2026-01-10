@@ -126,6 +126,7 @@ elgiganten.se
 engagor.com
 entrust.com
 etsy.com
+example.com
 extremetech.com
 familysearch.org
 fanatical.com
@@ -158,7 +159,6 @@ gamestop.com
 gemini.google.com
 genspark.ai
 geospy.ai
-example.com
 getsafeonline.org
 ghidra-sre.org
 github.com
